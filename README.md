@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Teknoloji Tutkunu | Yazılımcı | Mühendis
 
-[![GitHub followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/username)
+[![GitHub followers](https://img.shields.io/github/followers/brky06?style=social)](https://github.com/brky06)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square\&logo=twitter\&logoColor=white)](https://twitter.com/yourprofile)
 
@@ -28,26 +28,24 @@
 
 ### ⚡ GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brky06\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brky06\&layout=compact\&theme=radical)
 
 ---
 
 ### 🎯 Kodlama Aktivitem
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=brky06\&theme=radical)
 
 ---
 
 ### 📌 Profil Ziyaretçileri
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.visitor-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brky06.visitor-badge)
 
 ---
 
-
----
 
 #### 👨‍💻 "Kodlar, dünyayı değiştiren küçük satırlardır."
 
