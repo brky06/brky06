@@ -20,11 +20,6 @@
 
 ---
 
-### 📊 Kodlama İstatistiklerim (WakaTime)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=7dc5a56a-c20f-428a-94a5-ddbafc445b65&layout=compact\&theme=radical)
-
----
 
 ### ⚡ GitHub İstatistiklerim
 
