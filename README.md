@@ -16,7 +16,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat\&logo=flutter)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat\&logo=php)
 ![C](https://img.shields.io/badge/-C-333333?style=flat\&logo=C)
-
+![CPP](https://img.shields.io/badge/-C++-333333?style=flat\&logo=C++)
 ---
 
 
