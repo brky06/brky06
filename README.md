@@ -42,6 +42,6 @@
 ---
 
 
-#### 👨‍💻 "Kodlar, dünyayı değiştiren küçük satırlardır."
+#### 👨‍💻 Satır satır dünya yazılıyor."
 
 </div>
