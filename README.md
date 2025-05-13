@@ -42,6 +42,6 @@
 ---
 
 
-#### 👨‍💻 Satır satır dünya yazılıyor."
+#### 👨‍💻 "Satır satır dünya yazılıyor."
 
 </div>
