@@ -5,8 +5,7 @@
 ### 👨‍💻 Teknoloji Tutkunu | Yazılımcı | Mühendis
 
 [![GitHub followers](https://img.shields.io/github/followers/brky06?style=social)](https://github.com/brky06)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square\&logo=twitter\&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-berkay-%C3%B6zy%C4%B1lmaz-8352762a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -16,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat\&logo=javascript)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat\&logo=flutter)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat\&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat\&logo=mysql)
+![C](https://img.shields.io/badge/-C-333333?style=flat\&logo=C)
 
 ---
 
