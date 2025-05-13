@@ -17,6 +17,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat\&logo=php)
 ![C](https://img.shields.io/badge/-C-333333?style=flat\&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+![Assembly](https://img.shields.io/badge/-Asswmbly-333333?style=flat&logo=assembly)
 ---
 
 
