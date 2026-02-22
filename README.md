@@ -33,6 +33,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=brky06\&theme=radical)
 
+![Snake dark](https://raw.githubusercontent.com/brky06/brky06/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ### 📌 Profil Ziyaretçileri
