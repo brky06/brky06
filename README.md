@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Teknoloji Tutkunu | Yazılımcı | Mühendis
 
-[![GitHub followers](https://img.shields.io/github/followers/brky06?style=social)](https://github.com/brky06)
+[![GitHub followers](https://img.shields.io/github/followers/archEDuck?style=social)](https://github.com/archEDuck)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-berkay-%C3%B6zy%C4%B1lmaz-8352762a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
@@ -23,23 +23,23 @@
 
 ### ⚡ GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brky06\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archEDuck\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brky06\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archEDuck\&layout=compact\&theme=radical)
 
 ---
 
 ### 🎯 Kodlama Aktivitem
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=brky06\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=archEDuck\&theme=radical)
 
-![Snake dark](https://raw.githubusercontent.com/brky06/brky06/output/github-contribution-grid-snake-dark.svg)
+![Snake dark](https://raw.githubusercontent.com/archEDuck/archEDuck/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ### 📌 Profil Ziyaretçileri
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brky06.visitor-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archEDuck.visitor-badge)
 
 ---
 
